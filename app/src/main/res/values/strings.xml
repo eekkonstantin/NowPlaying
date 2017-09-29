@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Now Playing</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="instructions">
+        Type how you would like your text to appear. Use &lt;song&gt;, &lt;artist&gt; and &lt;album&gt;
+    </string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
